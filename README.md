@@ -30,3 +30,7 @@ The all encompassing totals and averages are:
 - Number of Purchases: 780
 - Total Revenue: 2379.77
 
+Some significant observations I noticed in the data are that:
+- Males account for an overwhealming majority of the revenue gathered by selling items
+- People who are either gender non-binary or chose not to disclose their gender spend the most on any given item on average
+- Nearly half of all players are between the ages of 20 and 24 (inclusive)
