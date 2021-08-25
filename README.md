@@ -22,3 +22,11 @@ This is an analysis of data regarding the purchase of items in the video game He
 
 ### Most Profitable Items
 ![alt text](https://github.com/IIVIIIII/Heroes_of_Pymoli/blob/main/HeroesOfPymoli/df_images/most_profitable_items.png?raw=true)
+
+The all encompassing totals and averages are:
+- Total players: 576
+- Number of Unique Items: 179
+- Average Price: 3.05
+- Number of Purchases: 780
+- Total Revenue: 2379.77
+
